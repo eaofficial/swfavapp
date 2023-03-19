@@ -1,2 +1,2 @@
 # swfavapp
-starters favourite app assignment
+star wars favourite app assignment
